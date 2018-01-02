@@ -1,6 +1,6 @@
 # WeatherApp
 
-An iOS application that forecasts the weather for your current location via a WeatherAPI.
+An iOS application that forecasts the weather for your current location via OpenWeather API.
 
 # What I Learned
 
